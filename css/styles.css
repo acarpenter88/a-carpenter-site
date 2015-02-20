@@ -106,6 +106,17 @@ body {
 	display: block;
 	text-align: center;
 	}
+	
+	.map 
+	{
+	width: 600px;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-top: 5%;
+	}
 
 }
 
@@ -186,6 +197,11 @@ body {
 	display: block;
 	text-align: center;
 	}
+	
+	.map 
+	{
+	display: none;
+	}
 }
 
 /*Small Devices, Tablets */
@@ -264,6 +280,17 @@ body {
 	{
 	display: block;
 	text-align: center;
+	}
+	
+	.map 
+	{
+	width: 500px;
+	height: 350px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-top: 5%;
 	}
 }
 
@@ -344,5 +371,16 @@ body {
 	{
 	display: block;
 	text-align: center;
+	}
+	
+	.map 
+	{
+	width: 600px;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	position: relative;
+	margin-top: 5%;
 	}
 }
