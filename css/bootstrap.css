@@ -162,6 +162,14 @@ body {
 	.contact-button:hover {
 	background: #66CCFF;
 	}
+	
+	.tooltip {
+	display: none;
+	}
+
+	.tooltip-text {
+    display: none;
+	}
 }
 
 /*Small Devices, Tablets */
@@ -302,6 +310,19 @@ body {
 	.contact-button:hover {
 	background: #66CCFF;
 	}
+	
+	.tooltip {
+	position: center;
+	}
+
+	.tooltip-text {
+    background-color: rgba(0, 0, 0, .7);    
+    color: white;
+    left: 0;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -441,6 +462,19 @@ body {
 	.contact-button:hover {
 	background: #66CCFF;
 	}
+	
+	.tooltip {
+	position: center;
+	}
+
+	.tooltip-text {
+    background-color: rgba(0, 0, 0, .7);    
+    color: white;
+    left: 0;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+	}
 }
 
 /* Large Devices, Wide Screens */
@@ -579,6 +613,19 @@ body {
 	
 	.contact-button:hover {
 	background: #66CCFF;
+	}
+	
+	.tooltip {
+	position: center;
+	}
+
+	.tooltip-text {
+    background-color: rgba(0, 0, 0, .7);    
+    color: white;
+    left: 0;
+    padding: 5px;
+    position: absolute;
+    top: 0;
 	}
 }
 
