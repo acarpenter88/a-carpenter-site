@@ -37,23 +37,22 @@ body {
 	h1 
 	{
 	text-align: center;
-	text-decoration: underline;
 	margin-top: 5%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 	
 	h2
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 
 	h3 
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 
 	img 
@@ -66,7 +65,9 @@ body {
 
 	.top-p 
 	{
-	text-align: justify;
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
+	text-align: center;
 	margin-top: 5%;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -76,6 +77,8 @@ body {
 
 	.bot-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: center;
 	margin-top: 3%;
 	margin-left: 20%;
@@ -86,6 +89,8 @@ body {
 
 	.skills-list 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -95,6 +100,8 @@ body {
 
 	.skills-list li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: inline-block;
 	text-align: center;
 	padding: 6px;
@@ -103,6 +110,8 @@ body {
 
 	.fun-facts 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -112,6 +121,8 @@ body {
 
 	.fun-facts li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: block;
 	text-align: center;
 	}
@@ -170,6 +181,21 @@ body {
 	.tooltip-text {
     display: none;
 	}
+	.font-set{
+		display: block;
+		position: relative;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.font1{
+		font-family: 'Cherry Cream Soda', cursive;
+		margin-top: 5%;
+	}
+	
+	.font2{
+		font-family: 'Roboto Condensed', sans-serif;
+		margin-top: 5%;
+	}
 }
 
 /*Small Devices, Tablets */
@@ -178,23 +204,22 @@ body {
 	h1 
 	{
 	text-align: center;
-	text-decoration: underline;
 	margin-top: 5%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 	
 	h2
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 
 	h3 
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFF;
 	}
 
 	img 
@@ -207,6 +232,8 @@ body {
 
 	.top-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: justify;
 	margin-top: 5%;
 	margin-left: 20%;
@@ -217,6 +244,8 @@ body {
 
 	.bot-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: center;
 	margin-top: 3%;
 	margin-left: 20%;
@@ -227,6 +256,8 @@ body {
 
 	.skills-list 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -236,6 +267,8 @@ body {
 
 	.skills-list li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: inline-block;
 	text-align: center;
 	padding: 6px;
@@ -244,6 +277,8 @@ body {
 
 	.fun-facts 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -253,6 +288,8 @@ body {
 
 	.fun-facts li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: block;
 	text-align: center;
 	}
@@ -323,6 +360,26 @@ body {
     position: absolute;
     top: 0;
 	}
+	
+	.font-set{
+		display: block;
+		position: relative;
+		margin: 0 auto;
+		text-align: center;
+	}
+	
+	.font1{
+		font-family: 'Cherry Cream Soda', cursive;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
+	}
+	.font2{
+		font-family: 'Roboto Condensed', sans-serif;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -331,23 +388,22 @@ body {
 	h1 
 	{
 	text-align: center;
-	text-decoration: underline;
 	margin-top: 5%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
 	
 	h2
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
 
 	h3 
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
 
 	img 
@@ -360,6 +416,8 @@ body {
 
 	.top-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: justify;
 	margin-top: 5%;
 	margin-left: 20%;
@@ -370,6 +428,8 @@ body {
 
 	.bot-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: center;
 	margin-top: 3%;
 	margin-left: 20%;
@@ -380,6 +440,8 @@ body {
 
 	.skills-list 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -389,6 +451,8 @@ body {
 
 	.skills-list li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: inline-block;
 	text-align: center;
 	padding: 6px;
@@ -397,6 +461,8 @@ body {
 
 	.fun-facts 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -406,6 +472,8 @@ body {
 
 	.fun-facts li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: block;
 	text-align: center;
 	}
@@ -475,6 +543,25 @@ body {
     position: absolute;
     top: 0;
 	}
+	
+	.font-set{
+		display: block;
+		position: relative;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.font1{
+		font-family: 'Cherry Cream Soda', cursive;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
+	}
+	.font2{
+		font-family: 'Roboto Condensed', sans-serif;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
+	}
 }
 
 /* Large Devices, Wide Screens */
@@ -483,23 +570,22 @@ body {
 	h1 
 	{
 	text-align: center;
-	text-decoration: underline;
 	margin-top: 5%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
 	
 	h2
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
-	
+
 	h3 
 	{
 	text-align: center;
 	margin-top: 2%;
-	color: #C2EBFF;
+	color: #FFFFFF;
 	}
 
 	img 
@@ -512,6 +598,8 @@ body {
 
 	.top-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: justify;
 	margin-top: 5%;
 	margin-left: 20%;
@@ -522,6 +610,8 @@ body {
 
 	.bot-p 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	text-align: center;
 	margin-top: 3%;
 	margin-left: 20%;
@@ -532,6 +622,8 @@ body {
 
 	.skills-list 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -541,6 +633,8 @@ body {
 
 	.skills-list li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	display: inline-block;
 	text-align: center;
 	padding: 6px;
@@ -549,6 +643,8 @@ body {
 
 	.fun-facts 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
 	color: #FFF;
 	list-style: none;
 	text-align: center;
@@ -558,6 +654,9 @@ body {
 
 	.fun-facts li 
 	{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-top: 5%;
+	color: #FFF;
 	display: block;
 	text-align: center;
 	}
@@ -626,6 +725,25 @@ body {
     padding: 5px;
     position: absolute;
     top: 0;
+	}
+	
+	.font-set{
+		display: block;
+		position: relative;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.font1{
+		font-family: 'Cherry Cream Soda', cursive;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
+	}
+	.font2{
+		font-family: 'Roboto Condensed', sans-serif;
+		margin-top: 5%;
+		color: #FFF;
+		text-align: center;
 	}
 }
 
